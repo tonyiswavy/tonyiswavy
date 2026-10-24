@@ -91,11 +91,19 @@ I keep source projects and custom asset libraries private unless I explicitly ch
 
 </div>
 
+## Customer Information
+
+For product availability, installation expectations, licensing questions, support, and release status, use the official resources below. Draft customer policies are clearly identified as **pending approval**; they are not binding purchase terms.
+
+**[Browse Product Documentation](https://github.com/tonyiswavy/tonecustoms-docs/tree/main/products)** · **[Customer Information & Policies](https://github.com/tonyiswavy/tonecustoms-docs/tree/main/policies)**
+
 ## Official Links
 
 | Destination | Link |
 | :--- | :--- |
 | **Documentation** | [ToneCustoms Docs](https://github.com/tonyiswavy/tonecustoms-docs) |
+| **Product catalog** | [Browse documented resources](https://github.com/tonyiswavy/tonecustoms-docs/tree/main/products) |
+| **Customer information** | [Policies and support](https://github.com/tonyiswavy/tonecustoms-docs/tree/main/policies) |
 | **Announcements & community discussion** | [GitHub Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions) |
 | **Community / Support** | [Discord](https://discord.gg/JdZ7NTG5KF) |
 | **Gameplay showcases** | [YouTube](https://www.youtube.com/@tonyiswavy12) |
