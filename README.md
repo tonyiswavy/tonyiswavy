@@ -1,77 +1,112 @@
 <div align="center">
 
-<img src="assets/tonecustoms-header.svg" alt="ToneCustoms — FiveM Development" width="100%" />
+<img src="assets/tonecustoms-header.svg" alt="ToneCustoms — Custom FiveM Development" width="100%" />
 
-<br />
+# TONECUSTOMS
 
-### Hey, I'm Tone.
+### Custom FiveM Development • Gameplay Systems • Server Tools
 
-**Founder of ToneCustoms · FiveM Developer · Roleplay Systems Creator**
+**Hey, I'm Tone — founder and developer of ToneCustoms.**
 
-I build custom experiences for FiveM communities, with an emphasis on **purposeful gameplay, creative interactions, and useful server systems.**
+I build FiveM resources focused on **immersive interactions, useful server systems, and more things for players to do.**
 
-**[Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** · **[Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions)** · **[Discord](https://discord.gg/JdZ7NTG5KF)** · **[YouTube](https://www.youtube.com/@tonyiswavy12)** · **[Tebex](https://tonecustoms.tebex.store/)**
+[![Documentation](https://img.shields.io/badge/Documentation-17122c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonyiswavy/tonecustoms-docs)
+[![Discord](https://img.shields.io/badge/Discord-6341c7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JdZ7NTG5KF)
+[![YouTube](https://img.shields.io/badge/YouTube-17122c?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tonyiswavy12)
+[![Tebex](https://img.shields.io/badge/Tebex-6341c7?style=for-the-badge)](https://tonecustoms.tebex.store/)
 
 </div>
 
 ---
 
-## About Me
+## About ToneCustoms
 
-I'm the developer behind **ToneCustoms**, an independent FiveM development brand built from hands-on roleplay server experience.
+**Built from real FiveM server experience.** My approach to development starts with gameplay: how the resource feels to players, how staff manage it, and how the system fits into an active roleplay city.
 
-I approach development from both sides of a server: what makes gameplay engaging for players and what makes a system practical for the people running it. I enjoy turning ideas into interactive experiences that give communities more to do.
+- **Gameplay variety:** Jobs, interactions, progression, and immersive mechanics.
+- **Practical server systems:** Tools that are useful to server owners and staff.
+- **Iterative development:** Build, improve, and validate functionality before calling something a finished release.
+- **Original identity:** ToneCustoms branding across custom development projects.
 
-**My approach:** build with purpose, focus on the details, and keep improving.
+> **Development principle:** Working functionality comes before version numbers. Active work is not automatically a released product.
 
-## What I Work With
-
-| Area | Technologies & Tools |
-| --- | --- |
-| **FiveM frameworks** | Qbox, QBCore, ESX |
-| **Development** | Lua, JavaScript, HTML, CSS, SQL |
-| **FiveM ecosystem** | ox_lib, ox_inventory, ox_target, oxmysql |
-| **Focus** | Gameplay interactions, roleplay systems, server operations, UI/UX |
-
-Compatibility and dependencies vary by project.
-
-## What Drives ToneCustoms
-
-**More than scripts.** The goal isn't to add features just to have them—it's to create systems that contribute to the roleplay experience.
-
-**Variety matters.** Players should have different ways to interact with the world, build their stories, and stay engaged.
-
-**Server owners matter, too.** Administration, configuration, and clear documentation are part of a useful resource.
-
-## Featured: ToneCustoms Documentation
-
-**[ToneCustoms Official Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** is the central place for information about ToneCustoms, our development approach, support resources, community guidelines, and official updates.
-
-This is a dedicated **documentation and community repository**, separate from the work that goes into creating FiveM resources.
-
-### Start Here
-
-| Looking for... | Go to |
-| --- | --- |
-| **About ToneCustoms** | [Official Documentation](https://github.com/tonyiswavy/tonecustoms-docs) |
-| **Community updates & discussion** | [GitHub Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions) |
-| **Report a documentation issue** | [Issues & Feedback](https://github.com/tonyiswavy/tonecustoms-docs/issues/new/choose) |
-| **Community support** | [ToneCustoms Discord](https://discord.gg/JdZ7NTG5KF) |
-| **Videos & showcases** | [ToneCustoms YouTube](https://www.youtube.com/@tonyiswavy12) |
-| **Store & available resources** | [ToneCustoms Tebex](https://tonecustoms.tebex.store/) |
-
-### Community Standards
-
-We welcome thoughtful ideas, constructive feedback, and respectful collaboration. Our community reference pages are available here:
-
-[Community Guidelines](https://github.com/tonyiswavy/tonecustoms-docs/blob/main/CODE_OF_CONDUCT.md) · [Contributing Guide](https://github.com/tonyiswavy/tonecustoms-docs/blob/main/CONTRIBUTING.md) · [Security Policy](https://github.com/tonyiswavy/tonecustoms-docs/blob/main/SECURITY.md)
-
----
+## Development Stack
 
 <div align="center">
 
-**TONECUSTOMS**
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-242139?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-242139?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-242139?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-242139?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-17122c?style=for-the-badge&logo=github&logoColor=white)
 
-*Built for roleplay. Made with purpose.*
+</div>
+
+| Frameworks | FiveM integrations | Focus |
+| :--- | :--- | :--- |
+| **Qbox · QBCore · ESX** | **ox_lib · ox_inventory · ox_target · oxmysql** | **Lua resources · UI/UX · gameplay systems · administration tools** |
+
+<sub>Individual script support and requirements depend on the resource.</sub>
+
+## Featured Script Demonstrations
+
+Here are examples of my FiveM development work and video walkthroughs. Video links are showcases, **not claims that source code is public or that a product is released**.
+
+| Project | Focus | Watch |
+| :--- | :--- | :---: |
+| **ToneCustoms Gun Jam** | Weapon-jamming gameplay mechanic | [Watch demo](https://youtu.be/kPniOo-VThw) |
+| **ToneCustoms Queue** | Whitelist and queue management | [Watch demo](https://youtu.be/qhEbaAJHqpQ) |
+| **Farming System** | Farming gameplay | [Watch demo](https://youtu.be/MWF8Kgai5KA) |
+| **Skills System** | Skill progression | [Watch demo](https://youtu.be/TYk_jkLa8wM) |
+| **3D Roleplay Text** | /me and /do interaction | [Watch demo](https://youtu.be/i4d7FPA4Ces) |
+| **Multi Job** | Multiple job management | [Watch demo](https://youtu.be/WhsA_jp7LC4) |
+
+<div align="center">
+
+**[Explore more ToneCustoms videos →](https://www.youtube.com/@tonyiswavy12)**
+
+</div>
+
+## Development & Release Philosophy
+
+```text
+Idea → Development → In-game testing → Refinement → Verified working build → Release
+```
+
+I keep source projects and custom asset libraries private unless I explicitly choose to publish them. Public documentation, discussions, and video showcases are separate from private development.
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/tonyiswavy">
+<img alt="ToneCustoms GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=tonyiswavy&show_icons=true&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA&icon_color=9D4EDD&include_all_commits=true" height="160" />
+</a>
+<a href="https://github.com/tonyiswavy">
+<img alt="ToneCustoms most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyiswavy&layout=compact&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA" height="160" />
+</a>
+
+<sub>These third-party statistics may be unavailable or incomplete at times; private repositories are not displayed here.</sub>
+
+</div>
+
+## Official Links
+
+| Destination | Link |
+| :--- | :--- |
+| **Documentation** | [ToneCustoms Docs](https://github.com/tonyiswavy/tonecustoms-docs) |
+| **Announcements & community discussion** | [GitHub Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions) |
+| **Community / Support** | [Discord](https://discord.gg/JdZ7NTG5KF) |
+| **Gameplay showcases** | [YouTube](https://www.youtube.com/@tonyiswavy12) |
+| **Store** | [ToneCustoms Tebex](https://tonecustoms.tebex.store/) |
+
+<div align="center">
+
+---
+
+### TONECUSTOMS
+
+**Built for roleplay. Made with purpose.**
 
 </div>
