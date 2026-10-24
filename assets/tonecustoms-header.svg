@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">ToneCustoms — FiveM Development</title>
+<desc id="desc">Purple and black official ToneCustoms developer profile banner.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0915"/><stop offset=".53" stop-color="#16102b"/><stop offset="1" stop-color="#070610"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8450f6"/><stop offset=".6" stop-color="#d2a4ff"/><stop offset="1" stop-color="#7951ff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#8138ee" stop-opacity=".44"/><stop offset="1" stop-color="#8138ee" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#8252cf" stroke-opacity=".11" stroke-width=".8"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<rect x="550" y="-170" width="690" height="650" fill="url(#glow)"/>
+<rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<path d="M0 278 H1200" stroke="#a16bff" stroke-opacity=".55" stroke-width="2"/>
+<path d="M38 278 H403" stroke="url(#accent)" stroke-width="4"/>
+<rect x="37" y="35" width="6" height="44" rx="3" fill="#ad7cff"/>
+<text x="61" y="63" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#d0beff">FIVEM DEVELOPMENT</text>
+<text x="39" y="175" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="900" letter-spacing="-3" fill="url(#accent)">TONECUSTOMS</text>
+<text x="42" y="211" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="500" letter-spacing="3.2" fill="#f0e9ff">MORE THAN SCRIPTS. BUILT FOR ROLEPLAY.</text>
+<text x="42" y="253" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.2" fill="#b9a8cf">CUSTOM SYSTEMS   •   COMMUNITY   •   CREATIVE DEVELOPMENT</text>
+<g transform="translate(985,90)" opacity=".95">
+  <rect x="0" y="0" width="154" height="154" rx="26" fill="#1e143a" stroke="#7b50d6" stroke-width="2"/>
+  <rect x="12" y="12" width="130" height="130" rx="18" fill="none" stroke="#9c75ef" stroke-opacity=".34"/>
+  <text x="77" y="96" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" fill="url(#accent)">TC</text>
+  <path d="M28 119 H126" stroke="#af76ff" stroke-width="3"/>
+</g>
+</svg>
