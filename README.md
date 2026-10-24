@@ -10,7 +10,7 @@
 
 I build custom experiences for FiveM communities, with an emphasis on **purposeful gameplay, creative interactions, and useful server systems.**
 
-**[Official Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** · **[Tebex Store](https://tonecustoms.tebex.store/)** · **[Discord](https://discord.gg/JdZ7NTG5KF)** · **[YouTube](https://www.youtube.com/@tonyiswavy12)**
+**[Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** · **[Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions)** · **[Discord](https://discord.gg/JdZ7NTG5KF)** · **[YouTube](https://www.youtube.com/@tonyiswavy12)** · **[Tebex](https://tonecustoms.tebex.store/)**
 
 </div>
 
@@ -43,20 +43,28 @@ Compatibility and dependencies vary by project.
 
 **Server owners matter, too.** Administration, configuration, and clear documentation are part of a useful resource.
 
-## Featured: Official ToneCustoms Documentation
+## Featured: ToneCustoms Documentation
 
-The **[ToneCustoms Documentation repository](https://github.com/tonyiswavy/tonecustoms-docs)** is the central place to learn about the brand, its development philosophy, community expectations, and official support channels.
+**[ToneCustoms Official Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** is the central place for information about ToneCustoms, our development approach, support resources, community guidelines, and official updates.
 
-You can also visit [ToneCustoms Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions) for community conversations and announcements.
+This is a dedicated **documentation and community repository**, separate from the work that goes into creating FiveM resources.
 
-## Connect With ToneCustoms
+### Start Here
 
-| Community & Updates | Official Link |
+| Looking for... | Go to |
 | --- | --- |
-| **Discord** | [Join the ToneCustoms community](https://discord.gg/JdZ7NTG5KF) |
-| **YouTube** | [Watch ToneCustoms](https://www.youtube.com/@tonyiswavy12) |
-| **Tebex** | [Visit the ToneCustoms store](https://tonecustoms.tebex.store/) |
-| **Documentation** | [Read the official docs](https://github.com/tonyiswavy/tonecustoms-docs) |
+| **About ToneCustoms** | [Official Documentation](https://github.com/tonyiswavy/tonecustoms-docs) |
+| **Community updates & discussion** | [GitHub Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions) |
+| **Report a documentation issue** | [Issues & Feedback](https://github.com/tonyiswavy/tonecustoms-docs/issues/new/choose) |
+| **Community support** | [ToneCustoms Discord](https://discord.gg/JdZ7NTG5KF) |
+| **Videos & showcases** | [ToneCustoms YouTube](https://www.youtube.com/@tonyiswavy12) |
+| **Store & available resources** | [ToneCustoms Tebex](https://tonecustoms.tebex.store/) |
+
+### Community Standards
+
+We welcome thoughtful ideas, constructive feedback, and respectful collaboration. Our community reference pages are available here:
+
+[Community Guidelines](https://github.com/tonyiswavy/tonecustoms-docs/blob/main/CODE_OF_CONDUCT.md) · [Contributing Guide](https://github.com/tonyiswavy/tonecustoms-docs/blob/main/CONTRIBUTING.md) · [Security Policy](https://github.com/tonyiswavy/tonecustoms-docs/blob/main/SECURITY.md)
 
 ---
 
