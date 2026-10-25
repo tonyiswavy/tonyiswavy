@@ -37,11 +37,17 @@ I build FiveM resources focused on **immersive interactions, useful server syste
 <a href="https://github.com/tonyiswavy">
 <img alt="ToneCustoms GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=tonyiswavy&show_icons=true&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA&icon_color=9D4EDD&include_all_commits=true" height="160" style="max-width:100%;height:auto" />
 </a>
-<a href="https://github.com/tonyiswavy">
-<img alt="ToneCustoms most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyiswavy&layout=compact&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA" height="160" />
-</a>
+<p><strong>Technology Stack</strong></p>
 
-<sub>These third-party cards summarize publicly visible GitHub activity and may load inconsistently or show incomplete information. Most ToneCustoms development repositories are private, so their programming languages and activity are not represented fully. For the actual technologies used, see Development Stack above.</sub>
+<p>
+<img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-242139?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-242139?style=flat-square&logo=html5&logoColor=E34F26" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-242139?style=flat-square&logo=css3&logoColor=1572B6" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-242139?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<sub>The activity card uses a third-party stats service and may not reflect private repository work. The technology badges represent the ToneCustoms development stack, not automatically calculated GitHub language rankings.</sub>
 
 **[View GitHub contributions](https://github.com/tonyiswavy?tab=overview)** · **[Browse public repositories](https://github.com/tonyiswavy?tab=repositories)**
 
