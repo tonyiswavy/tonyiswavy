@@ -121,13 +121,17 @@ I keep source projects and custom asset libraries private unless I explicitly ch
 
 ## Featured Public Repositories
 
-| Project | What you'll find |
-| :--- | :--- |
-| **[ToneCustoms Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** | Live FiveM product guides, installation information, troubleshooting, and support. |
-| **[ToneCustoms Shell Studio](https://github.com/tonyiswavy/ToneCustoms-Shell-Studio)** | Public development overview for a planned FiveM interior-shell creation tool. |
-| **[Prop Generator Updates](https://github.com/tonyiswavy/tonecustoms-prop-generator-updates)** | Public update metadata for ToneCustoms Prop Generator; private application source is not included. |
+Browse ToneCustoms' official documentation and public project information. Protected commercial source code stays private.
 
-**[Open the documentation website](https://tonyiswavy.github.io/tonecustoms-docs/)** · **[Browse all public repositories](https://github.com/tonyiswavy?tab=repositories)**
+| Repository | Purpose | Public status |
+| :--- | :--- | :--- |
+| **[ToneCustoms Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** | Product guides, installation, troubleshooting, customer support and policies. | **Documentation live** |
+| **[ToneCustoms Shell Studio](https://github.com/tonyiswavy/ToneCustoms-Shell-Studio)** | Planned Windows tool for designing and preparing FiveM interior shells. | **Planning / development showcase** |
+| **[Prop Generator Updates](https://github.com/tonyiswavy/tonecustoms-prop-generator-updates)** | Machine-readable update manifest for the private ToneCustoms Prop Generator. | **Update metadata only** |
+
+**For released script availability, check [ToneCustoms Tebex](https://tonecustoms.tebex.store/).** A repository, development overview, or demonstration is not necessarily a downloadable release.
+
+**[Explore official docs](https://tonyiswavy.github.io/tonecustoms-docs/)** · **[Browse public GitHub repositories](https://github.com/tonyiswavy?tab=repositories)** · **[Join Discord](https://discord.gg/JdZ7NTG5KF)** · **[Subscribe on YouTube](https://www.youtube.com/@tonyiswavy12)**
 
 ## Customer Information
 
