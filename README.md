@@ -96,18 +96,28 @@ Idea → Development → In-game testing → Refinement → Verified working bui
 
 I keep source projects and custom asset libraries private unless I explicitly choose to publish them. Public documentation, discussions, and video showcases are separate from private development.
 
+## Featured Public Repositories
+
+| Project | What you'll find |
+| :--- | :--- |
+| **[ToneCustoms Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** | Live FiveM product guides, installation information, troubleshooting, and support. |
+| **[ToneCustoms Shell Studio](https://github.com/tonyiswavy/ToneCustoms-Shell-Studio)** | Public development overview for a planned FiveM interior-shell creation tool. |
+| **[Prop Generator Updates](https://github.com/tonyiswavy/tonecustoms-prop-generator-updates)** | Public update metadata for ToneCustoms Prop Generator; private application source is not included. |
+
+**[Open the documentation website](https://tonyiswavy.github.io/tonecustoms-docs/)** · **[Browse all public repositories](https://github.com/tonyiswavy?tab=repositories)**
+
 ## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/tonyiswavy">
-<img alt="ToneCustoms GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=tonyiswavy&show_icons=true&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA&icon_color=9D4EDD&include_all_commits=true" height="160" />
+<img alt="ToneCustoms GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=tonyiswavy&show_icons=true&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA&icon_color=9D4EDD&include_all_commits=true" height="160" style="max-width:100%;height:auto" />
 </a>
 <a href="https://github.com/tonyiswavy">
 <img alt="ToneCustoms most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyiswavy&layout=compact&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA" height="160" />
 </a>
 
-<sub>These are third-party GitHub statistics, not a complete count of ToneCustoms development. Private repositories, contributions and language usage may be omitted; values and rank can also be delayed or incomplete.</sub>
+<sub>These third-party cards summarize publicly visible GitHub activity and may load inconsistently or show incomplete information. Most ToneCustoms development repositories are private, so their programming languages and activity are not represented fully. For the actual technologies used, see Development Stack above.</sub>
 
 **[View GitHub contributions](https://github.com/tonyiswavy?tab=overview)** · **[Browse public repositories](https://github.com/tonyiswavy?tab=repositories)**
 
