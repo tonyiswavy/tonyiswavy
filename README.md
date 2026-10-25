@@ -37,6 +37,12 @@ I build FiveM resources focused on **immersive interactions, useful server syste
 <a href="https://github.com/tonyiswavy">
 <img alt="ToneCustoms GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=tonyiswavy&show_icons=true&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA&icon_color=9D4EDD&include_all_commits=true" height="160" style="max-width:100%;height:auto" />
 </a>
+<p><strong>Most Used Languages</strong></p>
+
+<img alt="GitHub repository language breakdown (publicly accessible repositories only; may show no data)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyiswavy&layout=compact&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA&icon_color=9D4EDD" height="160" style="max-width:100%;height:auto" />
+
+<sub>This third-party chart reflects the repositories the service can analyze, not necessarily private ToneCustoms source. If it says “No languages data,” no reliable language ranking is available from this chart.</sub>
+
 <p><strong>Technology Stack</strong></p>
 
 <p>
