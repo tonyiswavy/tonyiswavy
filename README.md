@@ -80,16 +80,23 @@ I keep source projects and custom asset libraries private unless I explicitly ch
 
 <div align="center">
 
-<a href="https://github.com/tonyiswavy">
-<img alt="ToneCustoms GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=tonyiswavy&show_icons=true&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA&icon_color=9D4EDD&include_all_commits=true" height="160" />
-</a>
-<a href="https://github.com/tonyiswavy">
-<img alt="ToneCustoms most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyiswavy&layout=compact&hide_border=true&bg_color=0D0A17&title_color=B47CFF&text_color=EDE7FA" height="160" />
-</a>
-
-<sub>These third-party statistics may be unavailable or incomplete at times; private repositories are not displayed here.</sub>
+**[View My GitHub Contributions](https://github.com/tonyiswavy?tab=overview)** · **[Explore Public Repositories](https://github.com/tonyiswavy?tab=repositories)** · **[ToneCustoms Development Documentation](https://tonyiswavy.github.io/tonecustoms-docs/)**
 
 </div>
+
+### Languages & Tools
+
+<div align="center">
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-242139?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-242139?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-242139?style=flat-square&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-242139?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+<sub>Most ToneCustoms development repositories are private. Public-only statistics can therefore omit work, commits, issues, and programming languages; this section links to GitHub directly rather than displaying incomplete totals or a misleading rank.</sub>
 
 ## Customer Information
 
