@@ -108,6 +108,24 @@ Here are examples of my FiveM development work and video walkthroughs. Video lin
 
 </div>
 
+## Explore Each Script
+
+The documentation pages below explain each project's purpose and distinguish store-listed resources from development showcases.
+
+| Resource | Documentation | Presentation |
+| :--- | :--- | :--- |
+| **Gun Jam** | [Product guide](https://tonyiswavy.github.io/tonecustoms-docs/products/gun-jam) | Store-listed at last review; [watch demo](https://youtu.be/kPniOo-VThw) |
+| **Family System** | [Product guide](https://tonyiswavy.github.io/tonecustoms-docs/products/family-system) | Store-listed at last review |
+| **Window Cleaning** | [Product guide](https://tonyiswavy.github.io/tonecustoms-docs/products/window-cleaning) | Store-listed at last review |
+| **Queue** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/queue) | Development showcase |
+| **Farming** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/farming) | Development showcase |
+| **Skills** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/skills) | Development showcase |
+| **3D Roleplay Text** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/roleplay-text) | Development showcase |
+| **Multi Job** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/multi-job) | Development showcase |
+| **Pharmacy** | [Development overview](https://tonyiswavy.github.io/tonecustoms-docs/products/pharmacy) | In development |
+
+*Check the [official storefront](https://tonecustoms.tebex.store/) for current product availability. A showcase does not establish a public release.*
+
 ## Quick Start
 
 Whether you're exploring ToneCustoms resources or setting up a purchase, start here:
