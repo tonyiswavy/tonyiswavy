@@ -19,6 +19,17 @@ I build FiveM resources focused on **immersive interactions, useful server syste
 
 ---
 
+## Explore ToneCustoms
+
+| Explore | Destination |
+| :--- | :--- |
+| **Script demonstrations** | [See gameplay showcases](#featured-script-demonstrations) |
+| **Product guides** | [Installation and product documentation](#quick-start) |
+| **Free resources** | [Free FiveM Resources directory](#free-fivem-resources) |
+| **Public repositories** | [Repository directory and project status](#featured-public-repositories) |
+| **Development progress** | [ToneCustoms Development Board](https://github.com/users/tonyiswavy/projects/7) |
+| **Customer support** | [Support and policies](https://tonyiswavy.github.io/tonecustoms-docs/SUPPORT) |
+
 ## About ToneCustoms
 
 **Built from real FiveM server experience.** My approach to development starts with gameplay: how the resource feels to players, how staff manage it, and how the system fits into an active roleplay city.
