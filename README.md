@@ -125,6 +125,10 @@ Idea → Development → In-game testing → Refinement → Verified working bui
 
 I keep source projects and custom asset libraries private unless I explicitly choose to publish them. Public documentation, discussions, and video showcases are separate from private development.
 
+**[ToneCustoms Development Board](https://github.com/users/tonyiswavy/projects/7)** · **[Development Documentation](https://tonyiswavy.github.io/tonecustoms-docs/development/)**
+
+The development board tracks project workflow; access to individual project items may depend on repository permissions. A tracked project does not automatically mean its source is public or its product has been released.
+
 ## Free FiveM Resources
 
 Explore the [ToneCustoms Free Scripts directory](https://tonyiswavy.github.io/tonecustoms-docs/products/free-resources) for officially approved public downloads when available. This directory does not contain paid source code, and no free release is announced solely by creating a documentation page.
