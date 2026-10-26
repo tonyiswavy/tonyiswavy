@@ -164,6 +164,14 @@ Explore the [ToneCustoms Free Scripts directory](https://tonyiswavy.github.io/to
 
 ## Featured Public Repositories
 
+### Start with the documentation
+
+**[ToneCustoms Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** is the main public resource for installation, troubleshooting, product information and customer support.
+
+**[Open the documentation website](https://tonyiswavy.github.io/tonecustoms-docs/)** · **[Browse product guides](https://tonyiswavy.github.io/tonecustoms-docs/products/)** · **[Get support](https://tonyiswavy.github.io/tonecustoms-docs/SUPPORT)**
+
+### Public repository directory
+
 Browse ToneCustoms' official documentation and public project information. Protected commercial source code stays private.
 
 | Repository | Purpose | Public status |
