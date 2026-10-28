@@ -12,7 +12,7 @@ I develop FiveM resources focused on **immersive gameplay, practical server syst
 
 *Built for Roleplay. Made with Purpose.*
 
-[![Documentation](https://img.shields.io/badge/Documentation-17122c?style=for-the-badge&logo=github&logoColor=white)](https://tonyiswavy.github.io/tonecustoms-docs/)
+[![Documentation](https://img.shields.io/badge/Documentation-17122c?style=for-the-badge&logo=github&logoColor=white)](https://tonecustoms.github.io/tonecustoms-docs/)
 [![Discord](https://img.shields.io/badge/Discord-6341c7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JdZ7NTG5KF)
 [![YouTube](https://img.shields.io/badge/YouTube-17122c?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tonyiswavy12)
 [![Tebex](https://img.shields.io/badge/Tebex-6341c7?style=for-the-badge)](https://tonecustoms.tebex.store/)
@@ -26,11 +26,11 @@ I develop FiveM resources focused on **immersive gameplay, practical server syst
 | Explore | Destination |
 | :--- | :--- |
 | **Script demonstrations** | [See gameplay showcases](#featured-script-demonstrations) |
-| **Product guides** | [Browse product documentation](https://tonyiswavy.github.io/tonecustoms-docs/products/) |
+| **Product guides** | [Browse product documentation](https://tonecustoms.github.io/tonecustoms-docs/products/) |
 | **Free resources** | [Free FiveM Resources directory](#free-fivem-resources) |
 | **Public repositories** | [Repository directory and project status](#featured-public-repositories) |
 | **Development progress** | [ToneCustoms Development Board](https://github.com/users/tonyiswavy/projects/7) |
-| **Customer support** | [Support and policies](https://tonyiswavy.github.io/tonecustoms-docs/SUPPORT) |
+| **Customer support** | [Support and policies](https://tonecustoms.github.io/tonecustoms-docs/SUPPORT) |
 
 ## About ToneCustoms
 
@@ -118,15 +118,15 @@ The documentation pages below explain each project's purpose and distinguish sto
 
 | Resource | Documentation | Presentation |
 | :--- | :--- | :--- |
-| **Gun Jam** | [Product guide](https://tonyiswavy.github.io/tonecustoms-docs/products/gun-jam) | Store-listed at last review; [watch demo](https://youtu.be/kPniOo-VThw) |
-| **Family System** | [Product guide](https://tonyiswavy.github.io/tonecustoms-docs/products/family-system) | Store-listed at last review |
-| **Window Cleaning** | [Product guide](https://tonyiswavy.github.io/tonecustoms-docs/products/window-cleaning) | Store-listed at last review |
-| **Queue** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/queue) | Development showcase |
-| **Farming** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/farming) | Development showcase |
-| **Skills** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/skills) | Development showcase |
-| **3D Roleplay Text** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/roleplay-text) | Development showcase |
-| **Multi Job** | [Project overview](https://tonyiswavy.github.io/tonecustoms-docs/products/multi-job) | Development showcase |
-| **Pharmacy** | [Development overview](https://tonyiswavy.github.io/tonecustoms-docs/products/pharmacy) | In development |
+| **Gun Jam** | [Product guide](https://tonecustoms.github.io/tonecustoms-docs/products/gun-jam) | Store-listed at last review; [watch demo](https://youtu.be/kPniOo-VThw) |
+| **Family System** | [Product guide](https://tonecustoms.github.io/tonecustoms-docs/products/family-system) | Store-listed at last review |
+| **Window Cleaning** | [Product guide](https://tonecustoms.github.io/tonecustoms-docs/products/window-cleaning) | Store-listed at last review |
+| **Queue** | [Project overview](https://tonecustoms.github.io/tonecustoms-docs/products/queue) | Development showcase |
+| **Farming** | [Project overview](https://tonecustoms.github.io/tonecustoms-docs/products/farming) | Development showcase |
+| **Skills** | [Project overview](https://tonecustoms.github.io/tonecustoms-docs/products/skills) | Development showcase |
+| **3D Roleplay Text** | [Project overview](https://tonecustoms.github.io/tonecustoms-docs/products/roleplay-text) | Development showcase |
+| **Multi Job** | [Project overview](https://tonecustoms.github.io/tonecustoms-docs/products/multi-job) | Development showcase |
+| **Pharmacy** | [Development overview](https://tonecustoms.github.io/tonecustoms-docs/products/pharmacy) | In development |
 
 *Check the [official storefront](https://tonecustoms.tebex.store/) for current product availability. A showcase does not establish a public release.*
 
@@ -136,17 +136,17 @@ Whether you're exploring ToneCustoms resources or setting up a purchase, start h
 
 | Looking for | Official destination |
 | :--- | :--- |
-| **Browse resources** | [Interactive product catalog](https://tonyiswavy.github.io/tonecustoms-docs/products/) |
-| **Install a resource** | [Installation guides](https://tonyiswavy.github.io/tonecustoms-docs/INSTALLATION) |
-| **Confirm compatibility** | [Framework and dependency information](https://tonyiswavy.github.io/tonecustoms-docs/COMPATIBILITY) |
-| **Get technical help** | [Support guide](https://tonyiswavy.github.io/tonecustoms-docs/SUPPORT) |
-| **Read customer policies** | [Customer policy center](https://tonyiswavy.github.io/tonecustoms-docs/policies/) |
+| **Browse resources** | [Interactive product catalog](https://tonecustoms.github.io/tonecustoms-docs/products/) |
+| **Install a resource** | [Installation guides](https://tonecustoms.github.io/tonecustoms-docs/INSTALLATION) |
+| **Confirm compatibility** | [Framework and dependency information](https://tonecustoms.github.io/tonecustoms-docs/COMPATIBILITY) |
+| **Get technical help** | [Support guide](https://tonecustoms.github.io/tonecustoms-docs/SUPPORT) |
+| **Read customer policies** | [Customer policy center](https://tonecustoms.github.io/tonecustoms-docs/policies/) |
 
 ### Featured Product Guides
 
-- **[Gun Jam](https://tonyiswavy.github.io/tonecustoms-docs/products/gun-jam)** — features, installation, troubleshooting and release information.
-- **[Family System](https://tonyiswavy.github.io/tonecustoms-docs/products/family-system)** — product overview and customer guidance.
-- **[Window Cleaning](https://tonyiswavy.github.io/tonecustoms-docs/products/window-cleaning)** — job mechanics, setup and troubleshooting.
+- **[Gun Jam](https://tonecustoms.github.io/tonecustoms-docs/products/gun-jam)** — features, installation, troubleshooting and release information.
+- **[Family System](https://tonecustoms.github.io/tonecustoms-docs/products/family-system)** — product overview and customer guidance.
+- **[Window Cleaning](https://tonecustoms.github.io/tonecustoms-docs/products/window-cleaning)** — job mechanics, setup and troubleshooting.
 
 *For current prices, availability and purchase terms, refer to the [official ToneCustoms store](https://tonecustoms.tebex.store/). Documentation and demonstration videos do not by themselves establish release availability.*
 
@@ -158,21 +158,21 @@ Idea → Development → In-game testing → Refinement → Verified working bui
 
 I keep source projects and custom asset libraries private unless I explicitly choose to publish them. Public documentation, discussions, and video showcases are separate from private development.
 
-**[ToneCustoms Development Board](https://github.com/users/tonyiswavy/projects/7)** · **[Development Documentation](https://tonyiswavy.github.io/tonecustoms-docs/development/README)**
+**[ToneCustoms Development Board](https://github.com/users/tonyiswavy/projects/7)** · **[Development Documentation](https://tonecustoms.github.io/tonecustoms-docs/development/README)**
 
 The development board tracks project workflow; access to individual project items may depend on repository permissions. A tracked project does not automatically mean its source is public or its product has been released.
 
 ## Free FiveM Resources
 
-Explore the [ToneCustoms Free Scripts directory](https://tonyiswavy.github.io/tonecustoms-docs/products/free-resources) for officially approved public downloads when available. This directory does not contain paid source code, and no free release is announced solely by creating a documentation page.
+Explore the [ToneCustoms Free Scripts directory](https://tonecustoms.github.io/tonecustoms-docs/products/free-resources) for officially approved public downloads when available. This directory does not contain paid source code, and no free release is announced solely by creating a documentation page.
 
 ## Featured Public Repositories
 
 ### Start with the documentation
 
-**[ToneCustoms Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** is the main public resource for installation, troubleshooting, product information and customer support.
+**[ToneCustoms Documentation](https://github.com/ToneCustoms/tonecustoms-docs)** is the main public resource for installation, troubleshooting, product information and customer support.
 
-**[Open the documentation website](https://tonyiswavy.github.io/tonecustoms-docs/)** · **[Browse product guides](https://tonyiswavy.github.io/tonecustoms-docs/products/)** · **[Get support](https://tonyiswavy.github.io/tonecustoms-docs/SUPPORT)**
+**[Open the documentation website](https://tonecustoms.github.io/tonecustoms-docs/)** · **[Browse product guides](https://tonecustoms.github.io/tonecustoms-docs/products/)** · **[Get support](https://tonecustoms.github.io/tonecustoms-docs/SUPPORT)**
 
 ### Public repository directory
 
@@ -180,28 +180,28 @@ Browse ToneCustoms' official documentation and public project information. Prote
 
 | Repository | Purpose | Public status |
 | :--- | :--- | :--- |
-| **[ToneCustoms Documentation](https://github.com/tonyiswavy/tonecustoms-docs)** | Product guides, installation, troubleshooting, customer support and policies. | **Documentation live** |
+| **[ToneCustoms Documentation](https://github.com/ToneCustoms/tonecustoms-docs)** | Product guides, installation, troubleshooting, customer support and policies. | **Documentation live** |
 | **[ToneCustoms Shell Studio](https://github.com/tonyiswavy/ToneCustoms-Shell-Studio)** | Planned Windows tool for designing and preparing FiveM interior shells. | **Planning / development showcase** |
 | **[Prop Generator Updates](https://github.com/tonyiswavy/tonecustoms-prop-generator-updates)** | Machine-readable update manifest for the private ToneCustoms Prop Generator. | **Update metadata only** |
 
 **For released script availability, check [ToneCustoms Tebex](https://tonecustoms.tebex.store/).** A repository, development overview, or demonstration is not necessarily a downloadable release.
 
-**[Explore official docs](https://tonyiswavy.github.io/tonecustoms-docs/)** · **[Browse public GitHub repositories](https://github.com/tonyiswavy?tab=repositories)** · **[Join Discord](https://discord.gg/JdZ7NTG5KF)** · **[Subscribe on YouTube](https://www.youtube.com/@tonyiswavy12)**
+**[Explore official docs](https://tonecustoms.github.io/tonecustoms-docs/)** · **[Browse public GitHub repositories](https://github.com/tonyiswavy?tab=repositories)** · **[Join Discord](https://discord.gg/JdZ7NTG5KF)** · **[Subscribe on YouTube](https://www.youtube.com/@tonyiswavy12)**
 
 ## Customer Information
 
 For product availability, installation expectations, licensing questions, support, and release status, use the official resources below. The official store and checkout determine applicable purchase terms; public documentation provides product and support information.
 
-**[Browse Product Documentation](https://tonyiswavy.github.io/tonecustoms-docs/products/)** · **[Customer Information & Policies](https://tonyiswavy.github.io/tonecustoms-docs/policies/)**
+**[Browse Product Documentation](https://tonecustoms.github.io/tonecustoms-docs/products/)** · **[Customer Information & Policies](https://tonecustoms.github.io/tonecustoms-docs/policies/)**
 
 ## Official Links
 
 | Destination | Link |
 | :--- | :--- |
-| **Documentation** | [ToneCustoms Documentation Website](https://tonyiswavy.github.io/tonecustoms-docs/) |
-| **Product catalog** | [Browse documented resources](https://tonyiswavy.github.io/tonecustoms-docs/products/) |
-| **Customer information** | [Policies and support](https://tonyiswavy.github.io/tonecustoms-docs/policies/) |
-| **Announcements & community discussion** | [GitHub Discussions](https://github.com/tonyiswavy/tonecustoms-docs/discussions) |
+| **Documentation** | [ToneCustoms Documentation Website](https://tonecustoms.github.io/tonecustoms-docs/) |
+| **Product catalog** | [Browse documented resources](https://tonecustoms.github.io/tonecustoms-docs/products/) |
+| **Customer information** | [Policies and support](https://tonecustoms.github.io/tonecustoms-docs/policies/) |
+| **Announcements & community discussion** | [GitHub Discussions](https://github.com/ToneCustoms/tonecustoms-docs/discussions) |
 | **Community / Support** | [Discord](https://discord.gg/JdZ7NTG5KF) |
 | **Gameplay showcases** | [YouTube](https://www.youtube.com/@tonyiswavy12) |
 | **Store** | [ToneCustoms Tebex](https://tonecustoms.tebex.store/) |
